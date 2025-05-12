@@ -1,0 +1,8 @@
+INFO:     Will watch for changes in these directories: ['/content/drive/MyDrive/Colab Notebooks']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [27061] using StatReload
+INFO:     Started server process [27063]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     2a0b:4140:ef54::2:0 - "GET / HTTP/1.1" 404 Not Found
+INFO:     2a0b:4140:ef54::2:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
